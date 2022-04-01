@@ -14,7 +14,7 @@ export default function Home () {
 
     return (
         <div>
-            <img src={randomGif} /> <br/>
+            <img src={randomGif} className="displayGif"/> <br/>
             <br/>
             <button 
                 onClick = {() => {
