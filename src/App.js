@@ -7,7 +7,7 @@ import ErrorPage from "./Pages/ErrorPage";
 // We're going to use 3 endpoints from Giphy API
 // random, trending, search?
 
-export default function App() {
+export default function App () {
   return (
     <Router>
       <nav>

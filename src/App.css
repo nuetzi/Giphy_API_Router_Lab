@@ -1,3 +1,7 @@
-.App {
+body {
   text-align: center;
+}
+
+.displayGif {
+  max-width: 200px;
 }
